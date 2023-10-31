@@ -1,0 +1,1 @@
+INSERT INTO DOCTOR (id, department) VALUES (500, 'test');
